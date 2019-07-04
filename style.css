@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+header{
+    border-top: 10px solid rgb(25, 150, 25);
+    display: flex;
+    justify-content: space-around;
+    background-size: cover;
+    width: 100%;
+    left: 480px;
+}
+
